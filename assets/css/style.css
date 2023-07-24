@@ -458,6 +458,13 @@ section {
   background-color: #149ddd;
 }
 
+.skills .title i {
+  font-size: 15px;
+  margin-right: 5px;
+  color: #149ddd;
+  line-height: 0;
+}
+
 /*--------------------------------------------------------------
 # Resume
 --------------------------------------------------------------*/
